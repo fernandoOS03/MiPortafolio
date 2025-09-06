@@ -1,2 +1,3 @@
 # MiPortafolio
-Mi Portafolio Hecho en React con CSS
+
+Mi Portafolio Hecho en React
